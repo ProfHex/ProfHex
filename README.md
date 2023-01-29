@@ -10,7 +10,7 @@ I'm hex im a simple developer.
 
 ## 📎 Contact me
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/e6JCGAXJqR)
-[![Website]([https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white))](https://discord.gg/e6JCGAXJqR)
+[![Website]([https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://profhex.glitch.me/)
 
 
 ## 📎 Discord presence
