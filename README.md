@@ -9,7 +9,9 @@ I'm hex im a simple developer.
 ![a](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ## 📎 Contact me
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/852812755307593728)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/e6JCGAXJqR)
+[![Website]([https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white))](https://discord.gg/e6JCGAXJqR)
+
 
 ## 📎 Discord presence
 [![Discord Presence](https://lanyard.cnrad.dev/api/852812755307593728)](https://discord.com/users/852812755307593728)
