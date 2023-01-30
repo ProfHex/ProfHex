@@ -11,7 +11,6 @@ I'm hex im a simple developer.
 ## 📎 Contact me
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/e6JCGAXJqR)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ProfHexLabs)
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://profhex.glitch.me/)
 
 ## 📎 Discord presence
 [![Discord Presence](https://lanyard.cnrad.dev/api/852812755307593728)](https://discord.com/users/852812755307593728)
